@@ -1,0 +1,170 @@
+#wpbooklist-stylizer-area{
+    text-align:center;
+}
+
+#wpbooklist-addstylizer-success-div{
+    font-size: 14px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
+    margin-bottom: 60px;
+}
+
+#wpbooklist-create-page-post-stylizer-div{
+    position: relative;
+    top: 40px;
+    margin-bottom: 45px;
+}
+
+#wpbooklist-jre-stylizer-create-page{
+    margin-right: 20px;
+}
+
+#wpbooklist-create-woo-stylizer-div{
+    margin-top: 60px;
+}
+
+#wpbooklist-stylizer-iframe{
+    width:100%;
+    height:0px;
+    opacity:0;
+    border:solid 1px black;
+}
+
+.wpbooklist-stylizer-section-container{
+    overflow: hidden;
+    height:45px;
+}
+
+.wpbooklist-stylizer-title{
+    margin-top: 0;
+    text-align: center;
+    font-size: 20px;
+    cursor:pointer;
+    background-color: #F05A1A;
+    color: white;
+    border-radius: 5px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wpbooklist-stylizer-styles-holder{
+    overflow: hidden;
+    padding-top: 10px;
+    background-color: rgba(240, 90, 26, 0.1);
+    border: solid 1px #F05A1A;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.wpbooklist-stylizer-style-block{
+    position:relative;
+}
+
+.wpbooklist-stylizer-style-block label{
+    position: absolute;
+}
+
+.wpbooklist-stylizer-style-block input{
+    margin:3px;
+}
+
+
+.wpbooklist-stylizer-style-block input[type="text"]{
+
+}
+
+.wpbooklist-stylizer-style-block input[type="number"], .wpbooklist-stylizer-style-block input[type="text"], .wpbooklist-stylizer-style-block select{
+    width: 200px;
+    position: relative;
+    left: 125px;
+    bottom: 10px;
+}
+
+.wpbooklist-stylizer-short-num{
+    width: 46px!important;
+}
+
+.wpbooklist-stylizer-style-block select{
+    
+}
+
+#wpbooklist-stylizer-styles-div{
+    overflow: hidden;
+    opacity: 0;
+    height:0px;
+}
+
+.wpbooklist-spinner {
+    opacity: 0;
+    height: 20px;
+    width: 20px;
+    margin: 10px auto;
+    -webkit-animation: rotation .6s infinite linear;
+    -moz-animation: rotation .6s infinite linear;
+    -o-animation: rotation .6s infinite linear;
+    animation: rotation .6s infinite linear;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+    border-top: 1px solid #F05A1A;
+    border-radius: 100%;
+    position: relative;
+}
+
+#wpbooklist-stylizer-select{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#wpbooklist-stylizer-p{
+    text-align: center;
+}
+
+#wpbooklist-stylizer-save-reset-div button{
+    margin-left:20px;
+    margin-right:20px;
+    width:140px;
+}
+
+#wpbooklist-stylizer-save-reset-div{
+    text-align: center;
+    margin: 30px;
+}
+
+#wpbooklist-stylizer-styles-intro{
+    text-align: center;
+    margin-bottom: 30px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#wpbooklist-stylizer-success-div{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+#wpbooklist-stylizer-select{
+    margin-bottom:20px;
+}
+
+#wpbooklist-stylizer-bookview-styles, #wpbooklist-stylizer-libraryview-styles{
+    height:0px;
+    overflow:hidden;
+}
+
+#wpbooklist-stylizer-shadow-inset{
+    width:106px;
+    position: relative;
+    bottom: 13px;
+}
+
+#wpbooklist-stylizer-b1{
+    width:85px;
+}
